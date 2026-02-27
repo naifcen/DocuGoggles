@@ -1,0 +1,10 @@
+tabulate
+tqdm
+meilisearch
+chardet
+PyPDF2
+python-docx
+pytesseract
+Pillow
+schedule
+streamlit 

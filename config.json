@@ -1,0 +1,14 @@
+{
+  "scan_path": "C:\\Users\\q-5ra\\Downloads\\Capstone\\Naif-ALqurashi\\files to test",
+  "recursive_scan": true,
+  "process_pdfs": true,
+  "cache_path": "cache",
+  "meilisearch": {
+    "url": "http://127.0.0.1:7700",
+    "api_key": null
+  },
+  "schedule": {
+    "type": "daily",
+    "time": "02:00"
+  }
+}
